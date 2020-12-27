@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("../img/background-lobby1.png");
+    font-family: "Open Sans";
+}
+
+.kasten {
+    display: inline-block;
+    border: solid black 2px;
+    border-radius: 15px;
+    padding: 100px;
+    margin: 100px;
+    margin-left: 700px;
+    margin-top: 250px;
+    background-color: white;
+    margin-bottom: 0px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+input:hover {
+    background-color: rgba(163, 163, 163, 0.678);
+}
+
+.kein-konto {
+    padding: 10px;
+    border-radius: 15px;
+    border: solid black 1px;
+    background-color: white;
+}
+
+.kein-konto:hover {
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgba(163, 163, 163, 0.678);
+}
